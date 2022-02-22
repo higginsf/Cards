@@ -2,7 +2,9 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- */
+ *This is a comment added by me.
+ *This is secon dcomment added by me.
+*/
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
